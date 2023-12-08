@@ -1,4 +1,6 @@
-![header](assets/header_animated.svg)
+<a href="https://taihenc.github.io/" target="blank">
+<img src="./assets/header_animated.svg" alt="header"/>
+</a>
 
 <div align="center">
 
