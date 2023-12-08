@@ -1,4 +1,4 @@
-![header](assets/header.svg)
+![header](assets/header_animated.svg)
 
 <div align="center">
 
