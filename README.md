@@ -1,4 +1,8 @@
+![header](assets/header.svg)
+
 <div align="center">
+
+<!-- ![sdf](./assets/home_bg.gif) -->
 
 # Hi there! 👋 I'm `Atom`
 
