@@ -14,7 +14,7 @@
 
 ## About Me
 
-  &nbsp;&nbsp;&nbsp; Very passionate about developing and coding, I began intense coding since high school. I devoted so much time to coding so I lost my Pro-league-like reflexes(shooting games), No time to catch up on new game patches, <sub size='1'>... I also find myself entangled in the surreal realm of not knowing how to converse with a girl ... thi th-this is not my fault, n.. no no n- n-not my fault.<img src='./assets/hallucinate.png' style='height: 2em; margin-left: 5px; border-radius: 2px; position: absolute;'></img></sub>
+  &nbsp;&nbsp;&nbsp; Very passionate about developing and coding, I began intense coding since high school. I devoted so much time to coding so I lost my Pro-league-like reflexes(shooting games), No time to catch up on new game patches, <sub size='1'>... I- I also d-don't know h- how to talk to a girl... thi th-this is not my fault. It- It's because of the middle/high school I attended is a single-sex school(only boys) S- so Thi- this is no n... no no n-not my fault.<img src='./assets/hallucinate.png' style='height: 2em; margin-left: 5px; border-radius: 2px; position: absolute;'></img></sub>
 
 - 😉 **Tech Enthusiast:** Self-Hosted Home Server (Linux, Containers, Networking, IaC)
 - 😣 **Currently**: looking for a part-time job so I could pay off my 3-month rent debt.
