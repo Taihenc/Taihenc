@@ -22,7 +22,7 @@
   
 ## Open Source Contribution
 
-- <img src='https://github.com/tachiyomiorg.png' width=20> **Tachiyomi Contributor:** PR merged in an open-source project. [here]([link-to-your-pull-request](https://github.com/tachiyomiorg/tachiyomi-extensions/pull/18931))
+- <img src='https://github.com/tachiyomiorg.png' width=20> **[Tachiyomi](https://github.com/tachiyomiorg) Contributor:** PR merged in an open-source project. [here](https://github.com/tachiyomiorg/tachiyomi-extensions/pull/18931)
 
 ## Projects
 
