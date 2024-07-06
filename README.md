@@ -43,9 +43,9 @@
 ## Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/peerapat-patcharamontree-138a8b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peerapat-patcharamontree" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100007253977880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="peerapat patcharamontree" height="30" width="40" /></a>
-<a href="https://instagram.com/_taihenc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_taihenc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/peerapat-patcharamontree-138a8b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="peerapat-patcharamontree" height="35" width="35" /></a>
+<a href="https://instagram.com/_taihenc" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="_taihenc" height="35" width="35" /></a>
+<a href="mailto:taihennah@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="taihennah@gmail.com" height="35" width="35" /></a>
 </p>
 
 Feel free to reach out, whether it's for collaboration, job opportunities, or just a tech(/weeb) chat! 🚀
