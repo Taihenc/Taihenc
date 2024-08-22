@@ -44,7 +44,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/peerapat-patcharamontree-138a8b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="peerapat-patcharamontree" height="35" width="35" /></a>
-<a href="https://instagram.com/_taihenc" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="_taihenc" height="35" width="35" /></a>
+<a href="https://instagram.com/atom.taihen" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="atom.taihen" height="35" width="35" /></a>
 <a href="mailto:taihennah@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="taihennah@gmail.com" height="35" width="35" /></a>
 </p>
 
