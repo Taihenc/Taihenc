@@ -17,7 +17,6 @@
   &nbsp;&nbsp;&nbsp; Very passionate about developing and coding, I began coding since high school. I devoted so much time to coding so I lost my Pro-league-like reflexes(shooting games),had no time to catch up on new game patches, and barely touched grass.<sub size='1'>by sacrificing those things, what I got in return is coding skills and a nice part-time job.<img src='./assets/hallucinate.png' style='height: 2em; margin-left: 5px; border-radius: 2px; position: absolute;'></img></sub>
 
 - 😉 **Tech Enthusiast:** Self-Hosted Home Server (Linux, Containers, Networking, IaC)
-- 😣 **Currently**: looking for a part-time job so I could pay off my 3-month rent debt.
 - 😫 **Hobbies**: Anime, Manga, Coding, ~~Video Games~~ <sub size="1">(Still play, but much less compared to the past)</sub>
   
 ## Open Source Contribution
