@@ -1,4 +1,4 @@
-<a href="https://taihenc.github.io/" target="blank">
+  <a href="https://taihenc.github.io/" target="blank">
 <img src="./assets/header_animated.svg" alt="header"/>
 </a>
 
@@ -25,8 +25,8 @@
 
 ## Experience
 
--   <img src='./assets/lmwn.png' style='height: 1.5em; transform: translateY(0.25em); border-radius: 2px;'/> **Lineman Wongnai:** Software Engineer, Android - Intern (May - Jul 2024)
--   <img src='./assets/profluid.png' style='height: 1.5em; transform: translateY(0.25em); border-radius: 2px;'/> **Profluid GmbH:** Fullstack Developer - Part-time (remote) (Sep 2024 - Present)
+-   <img src='./assets/lmwn.png' style='height: 2em; border-radius: 2px; position: absolute;  transform: translateY(0.5em);'></img> **Lineman Wongnai:** Software Engineer, Android - Intern (May - Jul 2024)
+-   <img src='./assets/profluid.png' style='height: 2em; border-radius: 2px; position: absolute;  transform: translateY(0.5em);'></img> **Profluid GmbH:** Fullstack Developer - Part-time (remote) (Sep 2024 - Present)
 -   🎓 **Chulalongkorn University:** Teaching Assistant (Aug 2024 - Present)
 
 ## Projects
