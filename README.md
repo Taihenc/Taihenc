@@ -14,23 +14,28 @@
 
 ## About Me
 
-  &nbsp;&nbsp;&nbsp; Very passionate about developing and coding, I began intense coding since high school. I devoted so much time to coding so I lost my Pro-league-like reflexes(shooting games), No time to catch up on new game patches, <sub size='1'>... I- I also d-don't have the guts to s- start a conversation w- with a girl ... thi th-this is not my fault. It- It's because of the all-boy's school I attended since middle to high school, it was like six years in a cave fighting those monkeys without seeing any light. Even now, when I see one, maybe it's too bright, or perhaps the universe don't want me reach that warmly dawn light. so I never... reach<img src='./assets/hallucinate.png' style='height: 2em; margin-left: 5px; border-radius: 2px; position: absolute;'></img></sub>
+&nbsp;&nbsp;&nbsp; Very passionate about developing and coding, I began intense coding since high school. I devoted so much time to coding so I lost my Pro-league-like reflexes(shooting games), No time to catch up on new game patches, <sub size='1'>... I- I also d-don't have the guts to s- start a conversation w- with a girl ... thi th-this is not my fault. It- It's because of the all-boy's school I attended since middle to high school, it was like six years in a cave fighting those monkeys without seeing any light. Even now, when I see one, maybe it's too bright, or perhaps the universe don't want me reach that warmly dawn light. so I never... reach<img src='./assets/hallucinate.png' style='height: 2em; margin-left: 5px; border-radius: 2px; position: absolute;'></img></sub>
 
-- 😉 **Tech Enthusiast:** Self-Hosted Home Server (Linux, Containers, Networking, IaC)
-- 😣 **Currently**: looking for a part-time job so I could pay off my 3-month rent debt.
-- 😫 **Hobbies**: Anime, Manga, Coding, ~~Video Games~~ <sub size="1">(Still play, but much less compared to the past)</sub>
-  
+-   😉 **Tech Enthusiast:** Self-Hosted Home Server (Linux, Containers, Networking, IaC)
+-   😣 **Currently**: looking for a part-time job so I could pay off my 3-month rent debt.
+-   😫 **Hobbies**: Anime, Manga, Coding, ~~Video Games~~ <sub size="1">(Still play, but much less compared to the past)</sub>
+
 ## Open Source Contribution
 
-- <img src='https://github.com/tachiyomiorg.png' width=20> **[Tachiyomi](https://github.com/tachiyomiorg) Contributor:** PR merged in an open-source project. [here](https://github.com/tachiyomiorg/tachiyomi-extensions/pull/18931)
+-   <img src='https://github.com/tachiyomiorg.png' width=20> **[Tachiyomi](https://github.com/tachiyomiorg) Contributor** (sadly it archived)
+
+## Experience
+
+-   <img src='./assets/lmwn.png' style='height: 1.5em; transform: translateY(0.25em); border-radius: 2px;'/> **Lineman Wongnai:** Software Engineer, Android - Intern (May - Jul 2024)
+-   <img src='./assets/profluid.png' style='height: 1.5em; transform: translateY(0.25em); border-radius: 2px;'/> **Profluid GmbH:** Fullstack Developer - Part-time (remote) (Sep 2024 - Present)
+-   🎓 **Chulalongkorn University:** Teaching Assistant (Aug 2024 - Present)
 
 ## Projects
 
-- [YAKINIKU](https://github.com/Taihenc/YAKINIKU/) (🌐 Web-Dev) <sub size=1>Group project of 4, but I'm the sole front/back-end developer.</sub>
-  
-- [MoeKot](https://github.com/Taihenc/MoeKot) (📱 Android) <sub size=1>A side project so I become more comfortable with the Android development process.</sub>
-- ~~🕹️ **Game Development (Unity):**~~ [Currently private]
-- ~~🏡 **Self-Hosted Home Server:**~~ [Currently private]
+-   [YAKINIKU](https://github.com/Taihenc/YAKINIKU/) (🌐 Web-Dev) <sub size=1>Group project of 4, but I'm the sole front/back-end developer.</sub>
+-   [MoeKot](https://github.com/Taihenc/MoeKot) (📱 Android) <sub size=1>A side project so I become more comfortable with the Android development process.</sub>
+-   ~~🕹️ **Game Development (Unity):**~~ [Currently private]
+-   ~~🏡 **Self-Hosted Home Server:**~~ [Currently private]
 
 ## Skills
 
@@ -48,4 +53,4 @@
 <a href="mailto:taihennah@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="taihennah@gmail.com" height="35" width="35" /></a>
 </p>
 
-Feel free to reach out, whether it's for collaboration, job opportunities, or just a tech(/weeb) chat! 🚀
+Feel free to reach out, whether it's for collaboration, job opportunities, or just a chat! 🚀
