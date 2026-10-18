@@ -8,7 +8,7 @@
 
 # Hi there! 👋 I'm `Atom`
 
-🎓 Final-year Computer Engineering and Digital Technology student at Chulalongkorn University (GPAX 3.85)
+🎓 Final-year Computer Engineering and Digital Technology student at Chulalongkorn University
 
 🗼 Research Intern at The University of Tokyo · 💻 Software Engineer · 🤖 AI/ML Engineer
 
